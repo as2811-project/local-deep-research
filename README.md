@@ -30,3 +30,5 @@ enough. This might have to do with model sizes or the way they were trained. Big
 [] Shift away from a single Jupyter notebook to a full blown FastAPI endpoint
 
 [] Add a front-end
+
+**Local Deep Research is released under the MIT license. Feel free to use it or build on it or contribute!**
