@@ -24,6 +24,9 @@ enough. This might have to do with model sizes or the way they were trained. Big
 #### TODO
 
 [] Improve naming: Variables could be renamed to be more descriptive/precise
+
 [] Clean up: Remove logging statements
+
 [] Shift away from a single Jupyter notebook to a full blown FastAPI endpoint
+
 [] Add a front-end
